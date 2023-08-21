@@ -13,6 +13,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -49,6 +50,12 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://filbertkimasa.github.io/Awesome-Books/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 ### Prerequisites
@@ -68,7 +75,7 @@ Software
 Clone this repository to your desired folder Enter the following commands in the terminal:
 
 ```sh
-  git clone https://github.com/Surafels/Awesome_books.git
+  git clone https://github.com/FilbertKimasa/Awesome-Books.git
 ```
 
 ### Install
@@ -146,7 +153,7 @@ npx eslint .
  
 ## 🤝 Contributing <a name="contributing"></a>
 
-You are welcome, and click <a href="https://github.com/Surafels/Awesome_books/issues">here</a> for any issues🙏
+You are welcome, and click <a href="https://github.com/FilbertKimasa/Awesome-Books/issues">here</a> for any issues🙏
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -157,7 +164,7 @@ If you like this project please give it a star and follow me on github linkedIn 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my Microverse studying partners and my standup team for helping and encouraging me to do this project. Special thanks goes to Cindy Shin in Behance for designing the template.
+I would like to thank my Microverse studying partners and my standup team for helping and encouraging me to do this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
